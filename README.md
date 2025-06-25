@@ -1,3 +1,4 @@
+Fecha: 25/junio/2025
 🔑 Generador de Contraseñas Seguras 🔒
 ¿Estás Realmente seguro en línea?
 En la era digital, La seguridad de las contraseñas es más importante que nunca. Sabías que una computadora con los programas correctos y una tarjeta gráfica de alto rendimiento puede descifrar cualquier contraseña alfanumérica de 8 dígitos en aproximadamente 1 hora.  sí, solo en una hora  esto hace que las contraseñas débiles sean un riesgo inaceptable para tu información personal y profesional. 
